@@ -1,6 +1,6 @@
 # 👋 Hey there!
 
-I’m [Your Name], a passionate tech professional with over **12 years of experience in functional and automated software testing**. I’ve recently completed my **Master’s in Data Science** from **Liverpool John Moores University**, and I’m now transitioning into the world of **data analytics and machine learning**.
+I’m Jayati Chowdhury, a passionate tech professional with over **12 years of experience in functional and automated software testing**. I’ve recently completed my **Master’s in Data Science** from **Liverpool John Moores University**, and I’m now transitioning into the world of **data analytics and machine learning**.
 
 I bring a unique blend of **domain expertise in QA/testing** and newly acquired skills in **data science**, which allows me to approach problems with a blend of precision, logic, and creativity.
 
